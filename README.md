@@ -12,6 +12,13 @@ To start this app you need:
 3. To set up the app perform a commands from app directory via command line:
 ```
 npm init
+```
+Fill or ignore all fields and then run
+```
+npm i
+```
+After that run
+```
 npm run dev
 ```
 enter "Ctrl+C" to stop server.
